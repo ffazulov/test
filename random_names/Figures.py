@@ -1,4 +1,6 @@
 import math
+import sqlite3
+
 class Figures:
     def __init__(self):
         pass
